@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryAttackNTLM", "DictionaryAttackNTLM\DictionaryAttackNTLM.csproj", "{12224AB4-992A-4199-9A53-CDEF7F68D45B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12224AB4-992A-4199-9A53-CDEF7F68D45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12224AB4-992A-4199-9A53-CDEF7F68D45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12224AB4-992A-4199-9A53-CDEF7F68D45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12224AB4-992A-4199-9A53-CDEF7F68D45B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5157D7AA-E23B-4D35-9941-E3F77C062292}
+	EndGlobalSection
+EndGlobal
